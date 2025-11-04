@@ -23,7 +23,7 @@
  
 - 🔭 I'm currently working on **Developing a personal project focused on SLAM and SLAM-based learning**
 - 💬 Ask me about **C++, Python, NodeJS, React, Docker, and modern development practices**
-- 📫 How to reach me: **d202581394@hust.edu.cn**
+- 📫 How to reach me: **zhiyiwang@hust.edu.cn**
  
  
 <h2 align="center">🛠 Skills & Most Used Languages</h2>
@@ -38,7 +38,4 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 5px;"/>
 </p>
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyiWang-mc&theme=transparent" alt="Top Langs" width="300" />
-</p>
  
