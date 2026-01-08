@@ -4,21 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZhiyiWang-mc&abbreviated=true" alt="ZhiyiWang-mc" />
 </p>
- 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZhiyiWang-mc&theme=onestar&no-frame=true&row=1&column=7" alt="ZhiyiWang-mc" /></a>
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhiyiWang-mc&show_icons=true&theme=transparent&width=495" alt="ZhiyiWang-mc's GitHub stats" />
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhiyiWang-mc&theme=transparent&width=495" alt="ZhiyiWang-mc" />
-</p>
- 
- 
- 
+  
 <h2 align="center">🚀 About Me</h2>🚀 About Me
  
 - 🔭 I'm currently working on **Developing a personal project focused on SLAM and SLAM-based learning**
