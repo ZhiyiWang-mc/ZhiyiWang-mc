@@ -1,10 +1,4 @@
-<h1 align="center">Hi there, I'm @ZhiyiWang-mc 👋</h1>
- 
- 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZhiyiWang-mc&abbreviated=true" alt="ZhiyiWang-mc" />
-</p>
-  
+<h1 align="center">Hi there, I'm @ZhiyiWang👋</h1>
 <h2 align="center">🚀 About Me</h2>🚀 About Me
  
 - 🔭 I'm currently working on **Developing a personal project focused on SLAM and SLAM-based learning**
